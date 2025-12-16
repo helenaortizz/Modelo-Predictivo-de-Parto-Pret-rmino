@@ -2,10 +2,8 @@
 
 ## Presentación del Proyecto
 
-Este repositorio contiene el código y los recursos utilizados en el Trabajo de Fin de Máster (TFM) titulado:  
-**"Desarrollo de un Modelo Predictivo de parto pretérmino utilizando Machine Learning: Aplicación en obstetricia desde la perspectiva de la Matrona"**  
+Este repositorio contiene el código y los recursos utilizados para el **"Desarrollo de un Modelo Predictivo de parto pretérmino utilizando Machine Learning"**  
 Autora: **Helena Ortiz Rivero**  
-Máster Universitario en Bioinformática y Bioestadística (UOC)
 
 El objetivo es desarrollar un modelo de Machine Learning interpretable y aplicable en la práctica clínica para estimar el riesgo de parto pretérmino, empleando el conjunto de datos público **Natality Public Use File 2023** del CDC. Se ha creado también una **aplicación web interactiva** para su uso por matronas y profesionales sanitarios.
 
